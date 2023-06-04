@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "502239183596",
+    "firebase_url": "https://iot-gpoup2-l02-default-rtdb.firebaseio.com",
+    "project_id": "iot-gpoup2-l02",
+    "storage_bucket": "iot-gpoup2-l02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502239183596:android:83b314673f211aca62dbc9",
+        "android_client_info": {
+          "package_name": "com.example.smarthomeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502239183596-v8fmkegglsvdbpgs1j5poa0lktv8udab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLDUyZeRq66zm-OL66L9I_esN1wZqs4DQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502239183596-v8fmkegglsvdbpgs1j5poa0lktv8udab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

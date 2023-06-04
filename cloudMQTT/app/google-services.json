@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "160627754242",
+    "firebase_url": "https://nguyenvanminh-45257-default-rtdb.firebaseio.com",
+    "project_id": "nguyenvanminh-45257",
+    "storage_bucket": "nguyenvanminh-45257.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160627754242:android:1828a8c6c853a58af32e1b",
+        "android_client_info": {
+          "package_name": "com.example.smarthome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160627754242-graipm75pui1ubgaba551675d1gremhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs0qJm9sAL4k9MzmPWkJ5wzQ1OkirvsSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160627754242-graipm75pui1ubgaba551675d1gremhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

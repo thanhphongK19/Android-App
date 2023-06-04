@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    tools:context=".InspectActivity"
+    >
+
+
+
+    <ImageView
+        android:id="@+id/monitor"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:src="@drawable/ic_launcher_foreground"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="43dp" />
+
+    <Button
+        android:id="@+id/buttonConnect"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:text="Connect"
+        android:gravity="center"
+        android:layout_gravity="center"/>
+
+</LinearLayout>
